@@ -1,0 +1,173 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 180%;
+    color: #666;
+    text-align: center;
+}
+
+.container{
+    display: inline;
+    text-align: center;
+}
+.ten
+{
+    display: inline;
+    text-align: center;
+}
+
+
+
+.col-4
+{
+    
+    list-style: none;
+    margin-top: 30px;
+    justify-content: end;
+   display: inline;
+   
+   text-align: center;
+    
+}
+
+.col-4 li
+{
+    display: inline-block;
+    
+}
+
+
+.col-4 li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.col-4 li a:hover
+{
+    border: 1px solid white;
+}
+
+
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+.aboutMe
+{
+    text-align: center;
+    
+}
+
+
+.text
+{
+    text-align: center;
+}
+
+
+.parallax1
+{
+    background: url(fairy.jpg);
+    min-height: 100%;
+    text-align: center;
+    
+}
+
+.parallax2
+{
+    background: url(mat2.jpg.jpg);
+    min-height: 60%;
+    text-align: center;
+}
+
+.parallax3
+{
+    background: url(clue3.jpg);
+    min-height: 40%;
+    text-align: center;
+}
+
+.parallax4
+{
+    background: url(retouch.jpg);
+    min-height: 100%;
+}
+
+.parallax1, .parallax2, .parallax3, .parallax4 {
+    position: relative;
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.heading{
+    position: absolute;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 550%;
+    top: 60%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 80px;
+    text-shadow: 0 0 10px #000;
+}
+
+.heading-sm{
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    color: #fff;
+    font-size: 250%;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 0 0 10px #000;  
+}
+
+.two-col {
+    float: left;
+    
+    padding: 0 4%;
+    text-align: left;
+    
+    
+
+}
+
+
+section{
+    overflow: auto;
+    padding: 50px 80px;
+}
+
+
+
+
+.dark {
+    overflow: auto;
+    padding: 50px 80px;
+    background-color: #323232;
+    
+    text-align: center;
+  }
+
+ 
+.icons
+{
+
+   widows: 500pxt;
+   height: 100px;
+  
+}
+
